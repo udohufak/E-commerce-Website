@@ -1,7 +1,7 @@
 
 # EcommerceWebsite
 
-Welcome to the Ecommerce Website repository! This project showcases an online clothing store built with HTML, CSS, and JavaScript, providing users with a platform to explore and shop for the latest fashion trends.
+Welcome to the E-commerce Website repository! This project showcases an online clothing store built with HTML, CSS, and JavaScript, providing users with a platform to explore and shop for the latest fashion trends.
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ The Ecommerce Clothing Website is a front-end project that demonstrates the layo
 
 ## Demo
 
-Check out the live demo of the Ecommerce Clothing Website: [Live Demo](https://yourusername.github.io/ecommerce-clothing-website)
+Check out the live demo of the Ecommerce Clothing Website: [Live Demo](https://udohufak.github.io/E-commerce-Website/)
 
 ## Features
 
@@ -41,13 +41,13 @@ To run the Ecommerce Clothing Website locally, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/ecommerce-clothing-website.git
+   git clone https://github.com/udohufak/E-commerce-Website.git
    ```
 
 2. Navigate to the project directory:
 
    ```sh
-   cd ecommerce-clothing-website
+   cd E-commerce-Website
    ```
 
 3. Open the `index.html` file in your preferred web browser.
