@@ -13,7 +13,6 @@ Welcome to the E-commerce Website repository! This project showcases an online c
 - [Usage](#usage)![logo](https://github.com/udohufak/E-commerce-Website/assets/113771340/9779231e-8221-4f0d-95b2-c8f3bc971335)
 
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About the Project
@@ -69,15 +68,11 @@ Contributions are welcome! To contribute to this project, follow these steps:
 5. Push the changes to your forked repository: `git push origin feature-new-feature`.
 6. Open a pull request describing your changes.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contact
 
-For questions or feedback, feel free to contact us at contact@clothingwebsite.com.
+For questions or feedback, feel free to contact me at udohufak93@gmail.com
 
-Project Link: [https://github.com/yourusername/ecommerce-clothing-website](https://github.com/yourusername/ecommerce-clothing-website)
+Project Link: [https://github.com/yourusername/E-commerce-Website](https://github.com/udohufak/E-commerce-Website)
 ```
 
 Remember to replace the placeholder content (such as URLs, email addresses, and project structure) with your actual information and repository details. This README provides a basic structure for showcasing an ecommerce clothing website built with HTML, CSS, and JavaScript.
